@@ -8,6 +8,6 @@ entries:
     digest: e0965ebbaed0662eb577f269bbd01b84605e84ac03c454cf5a41947f5b7cfdb9
     name: stocktrader-chart
     urls:
-    - stocktrader-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/khahmed/stocktrader-chart/master/stocktrader-chart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-03-15T11:25:41.533112-04:00
